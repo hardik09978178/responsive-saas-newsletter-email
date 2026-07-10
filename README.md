@@ -1,0 +1,33 @@
+# Responsive SaaS Newsletter Email
+
+A responsive HTML email template designed for SaaS newsletters and marketing campaigns.
+
+## Features
+
+- Responsive HTML Email
+- Table-based layout
+- Mobile-friendly
+- Cross-client compatible
+- Modern SaaS newsletter design
+- CTA section
+- Professional footer
+
+## Preview
+
+### Desktop
+
+![Desktop](desk_view.png)
+
+### Mobile
+
+![Mobile](mob_view.png)
+
+## Technologies
+
+- HTML5
+- CSS3 (Internal)
+- Responsive Email Development
+
+## Author
+
+Hardik Dhanmeher
