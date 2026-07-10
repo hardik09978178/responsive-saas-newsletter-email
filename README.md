@@ -20,11 +20,11 @@ A responsive HTML email template designed for SaaS newsletters and marketing cam
 
 ### Desktop
 
-![Desktop](desk_view.png)
+![Desktop](preview-desktop.png)
 
 ### Mobile
 
-![Mobile](mob_view.png)
+![Mobile](preview-mobile.png)
 
 ## Technologies
 
